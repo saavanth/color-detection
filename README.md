@@ -1,2 +1,2 @@
 # color-detection
-Built a Python tool with OpenCV and Pandas to detect color names from images using RGB matching.
+Built an interactive Python tool with OpenCV and Pandas to accurately detect color names using RGB matching.
